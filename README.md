@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zScanner or Aluizio Neto
+- 👀 I’m interested in creating websites and programming
+- 🌱 I’m currently learning Java, htlm5 and css3
