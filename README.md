@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @zScanner or Aluizio Neto
+- 👋 Hi, I’m @zScanner or Aluizio Neto <br/>
 - 👀 I’m interested in creating websites and programming
 - 🌱 I’m currently learning JavaScript
